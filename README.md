@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My Discord server for DEV:https://discord.gg/dQrDprXEvj
+
 <!--
 **ZIFON/ZIFON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
