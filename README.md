@@ -13,4 +13,5 @@
 ### About Me
 
 I'm a passionate developer with experience in a variety of programming languages and frameworks. I enjoy building robust and scalable applications and always strive to learn new technologies and improve my skills.
+My Discord: .zifon1337
 
